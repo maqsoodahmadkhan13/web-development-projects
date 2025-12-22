@@ -1,4 +1,4 @@
-# 🌐 Web Development Projects
+b# 🌐 Web Development Projects
 
 This repository serves as the **master index (hub)** for all my **Web Development work**. Instead of cluttering GitHub with dozens of small repositories, the projects are **logically grouped** into dedicated frontend and backend repositories, and this repo connects everything in one clean place.
 
@@ -132,8 +132,9 @@ This approach keeps GitHub **clean, scalable, and professional**.
 ---
 
 ## 👨‍💻 Author 
-**Maqsood Ahmad**
-CS Student | Web Engineer | AIoT Enthusiast
+
+**Maqsood Ahmad**<br/>
+CS Student | Web Engineer | AIoT Enthusiast<br/>
 GitHub: https://github.com/maqsoodahmadkhan13
 
 

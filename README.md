@@ -133,6 +133,8 @@ This approach keeps GitHub **clean, scalable, and professional**.
 
 ## 👨‍💻 Author 
 **Maqsood Ahmad**
+CS Student | Web Engineer | AIoT Enthusiast
+GitHub: https://github.com/maqsoodahmadkhan13
 
 
 ---

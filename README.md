@@ -21,8 +21,8 @@ Includes:
 * HTML, CSS & JavaScript projects
 * React projects
 
-🔗 **Frontend Repository:**
-➡️ *Link will be added here*
+🔗 **Frontend Repository:**  
+➡️ [Web Development – Frontend Projects](https://github.com/maqsoodahmadkhan13/frontend-web-development-projects)
 
 ---
 
@@ -37,8 +37,8 @@ Includes:
 * Django projects
 * Django REST Framework APIs
 
-🔗 **Backend Repository:**
-➡️ *Link will be added here*
+🔗 **Backend Repository:**  
+➡️ [Web Development – Backend Projects](https://github.com/your-username/backend-repo-name)
 
 ---
 
